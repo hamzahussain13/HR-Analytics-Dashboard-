@@ -15,15 +15,12 @@ The goal of this dashboard is to assist HR managers in tracking workforce presen
 ## 📸 Dashboard Visuals
 
 ### 1. Home Dashboard (Overview)
-![Home Dashboard](Dashboard SS1.png)
 *A detailed overview of employee attendance, WFH trends, and sick leave patterns.*
 
 ### 2. Monthly Trends Analysis
-![Monthly Trends](monthly_trends.png)
 *Line charts showing daily fluctuations in Attendance, WFH, and SL percentages.*
 
 ### 3. Employee Detail Drill-Down
-![Employee Details](employee_details.png)
 *Granular table view allowing deeper analysis of individual employee performance.*
 
 ---
